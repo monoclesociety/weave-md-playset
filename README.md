@@ -8,7 +8,7 @@ This playset format uses Markdown, which is a popular way for writers to work in
 ## WHAT IS MARKDOWN?
 Markdown is a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to many other formats, such as the Weave playset format. It is simple to read and very easy to write in. We chose markdown because we want writers to work in the editor of their choice, and not be initially encumbered with yet another app to learn.
 
-You can learn more about markdown at [https://help.github.com/articles/basic-writing-and-formatting-syntax/](GITHUB: Basic writing and formatting)
+You can learn more about markdown at [Github: Basic Writing and Formatting](https://help.github.com/articles/basic-writing-and-formatting-syntax)
 
 ## CAVEATS
 While markdown is very flexible, Weave uses some of the symbols of markdown to indicate how to read and understand playsets as they are imported. The following are reserved symbols that we use and should not be used at the beginning of any line in your playset:
@@ -29,7 +29,7 @@ Certain emphasis characters are used. While emphasis is what you will use for th
 
 
 ## COOL, SO HOW DO I START?
-Well it's easy! just download a copy of this[https://github.com/monoclesociety/weave-md-playset](Our Github Repository for it), open up the zip file, and read through all the files! We took the time to write up how it works and what works best for you, as well as provided examples, so be sure to read at the following:
+Well it's easy! just download a copy of this [our github repository](https://github.com/monoclesociety/weave-md-playset), open up the zip file, and read through all the files! We took the time to write up how it works and what works best for you, as well as provided examples, so be sure to read at the following:
 
 - index.md
 - glossary.md
