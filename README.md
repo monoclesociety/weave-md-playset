@@ -29,11 +29,17 @@ Certain emphasis characters are used. While emphasis is what you will use for th
 
 
 ## COOL, SO HOW DO I START?
-Well it's easy! just download a copy of this [our github repository](https://github.com/monoclesociety/weave-md-playset), open up the zip file, and read through all the files! We took the time to write up how it works and what works best for you, as well as provided examples, so be sure to read at the following:
+Well it's easy! just download a copy at [our github repository](https://github.com/monoclesociety/weave-md-playset), open up the zip file, and read through all the files! We took the time to write up how it works and what works best as well as provided examples, so be sure to read at the following:
 
 - index.md
 - glossary.md
 - 00\_dawn\_card.md
 - 00\_dawn\_boss.md
+
+Additionally if you are looking for some great editors to use that really take advantage of markdown, here are some that we suggest:
+
+- [Atom](https://atom.io) \(free, universal\)
+- [Visual Studio Code](https://code.visualstudio.com) \(free, universal\)
+- [SublimeText](https://www.sublimetext.com) \(free, universal\) 
 
 We're looking forward to all the wonderful worlds you create! If you have any questions, feel free to reach out to our wonderful discord community!
