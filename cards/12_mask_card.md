@@ -22,7 +22,7 @@ _please note that the following text here is still considered the last paragraph
 - ONLY
 
 ## Attended school of double wand spell-fighting
-You went to a very prestigous school of double want spell-fighting. It's like spell-fighting with a regular wand, except you have TWO wands. Someone should write a book about this, and they did. That's why you went to school about it.
+You went to a very prestigous school of double wand spell-fighting. It's like spell-fighting with a regular wand, except you have TWO wands. Someone should write a book about this, and they did. That's why you went to school about it.
 
 _The education they received while useful was only partially correct. The instructor was poorly educated in it and only used the word prestigous in the brochure to get rich families to sign up_
 
