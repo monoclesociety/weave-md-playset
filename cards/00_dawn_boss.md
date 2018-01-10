@@ -10,7 +10,7 @@ This is where you provide a overall description of the boss card. This is used b
 BACKSTORIES
 ---
 ## Example Backstory
-Bosses have a minimum of 2 backstory qualties to their character sheets. For more information on backstories and how to write them, please see the corresponding card file. Below is an example backstory for a boss
+Bosses have a minimum of 2 backstory qualities to their character sheets. For more information on backstories and how to write them, please see the corresponding card file. Below is an example backstory for a boss
 
 ## Vows Revenge to Society
 Captain von Evil may on the surface appear to be an upstanding citizen, but underneath the kind exterior lies a person who has vowed vengence against society for giving them the nickname of Captain von Evil.
@@ -22,7 +22,7 @@ TALENTS
 Bosses have a minimum of 2 talent qualities to their character sheets. For more information on talents and how to write them, please see the corresponding card file. Below is an example talent for a boss.
 
 ## Magnetic Charisma
-You don't get to be a power in the government without a charismatic smile, which Captain von Evil uses to physically lure their victims closer to them. It takes a strong mind to resist the challenge of their silver tongue
+You don't get to be a power in the government without a charismatic smile, which Captain von Evil uses to physically lure their victims closer to them. It takes a strong mind to resist the challenge of their silver tongue.
 
 
 FLAWS
