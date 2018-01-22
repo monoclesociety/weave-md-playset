@@ -1,5 +1,6 @@
 05 MOUNTAIN BOSS
 ---
+![Example Boss Image](images/logo.png)
 
 NAME
 ---
@@ -22,7 +23,7 @@ TALENTS
 Bosses have a minimum of 2 talent qualities to their character sheets. For more information on talents and how to write them, please see the corresponding card file. Below is an example talent for a boss.
 
 ## Magnetic Charisma
-You don't get to be a power in the government without a charismatic smile, which Captain von Evil uses to physically lure their victims closer to them. It takes a strong mind to resist the challenge of their silver tongue
+You don't get to be a power in the government without a charismatic smile, which Captain von Evil uses to physically lure their victims closer to them. It takes a strong mind to resist the challenge of their silver tongue.
 
 
 FLAWS
@@ -40,5 +41,3 @@ ITEMS
 ---
 ## Example Item
 Bosses may have items at their disposal. For more information on items and how to write them, please see the corresponding card file.
-
-

@@ -88,9 +88,12 @@ Signature moves are usually used only once in an episode, and thus have game mec
 ITEMS
 ---
 ## Example Item
+![Example Item Image](images/logo.png)
 Items are useful in a story to characters, but don't always mean that they gain an extra die in a challenge. They also may be used to also make an action possible, which in turn may require a challenge. There are 2 items in every card.
 
+
 ## Battery-powered Flashlight
+![Example Item Image](images/logo.png)
 Your favorite flashlight for delving into caves, and certainly the brightest one on the market. Hopefully the batteries are still fresh...
 
 _After three uses of the flashlight or after continuous use, consider having the batteries run out_
@@ -103,9 +106,11 @@ _After three uses of the flashlight or after continuous use, consider having the
 NPCS
 ---
 ## Example NPC
+![Example NPC Image](images/logo.png)
 NPC stands for non-player character, and are used by the storyteller as someone who may travel with the players or assist them briefly in the story. There are 2 NPCs in every card.
 
 ## Old Man Gygax
+![Example NPC Image](images/logo.png)
 A older man with a white beard and stocky build. He seems like the type who can ramble and describe things or events at great length, and always has books with him whereever he goes
 
 _Gygax will be more open to talk to players that have a *MAGICAL* tag associated with them. All others may have to perform a Brooks Challenge to keep him on topic_
@@ -114,9 +119,11 @@ _Gygax will be more open to talk to players that have a *MAGICAL* tag associated
 ENEMIES
 ---
 ## Example Enemy
+![Example Enemy Image](images/logo.png)
 Enemies are great ways to keep players on course or challenge them during lulls in the story. They reserve the right to have non-player actions in an encounter. There are 2 enemies in a card, and typically involve one enemy being singular and the other enemy being plural in numbers.
 
 ## Swarm of Huge Moths
+![Example Enemy Image](images/logo.png)
 These moths are huge. Like really huge, and their razor sharp wings could perform can cut deep against any that get in their way
 
 _Moths are more likely to be attracted to any player that have a *BRIGHT* tag associated with them._
@@ -134,9 +141,11 @@ A magical trap was placed somewhere where your players are, and when it went off
 LOCATIONS
 ---
 ## Example Location
+![Example Location Image](images/logo.png)
 Location location location. These are places that an NPC, clue, or plot point may direct the players to. Locations are usually played at the end of a scene to start up the next scene in the episode.
 
 ## Abandonded Hospital
+![Example Location Image](images/logo.png)
 The walls are ripe with moss and decay, it's super creepy. There are long corridors lined with cots and medical equipment that is way past it's prime. Some Flourescent lights are still on, but flicker sporadically.
 
 _If the players go too far down a hallway, they might encounter renegade punks looking to scavenge equipment, and it might incur an encounter_

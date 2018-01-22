@@ -1,5 +1,6 @@
 00 DAWN BOSS
 ---
+![Example Boss Image](images/logo.png)
 
 NAME
 ---
@@ -40,5 +41,3 @@ ITEMS
 ---
 ## Example Item
 Bosses may have items at their disposal. For more information on items and how to write them, please see the corresponding card file.
-
-
