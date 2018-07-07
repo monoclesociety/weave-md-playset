@@ -4,8 +4,14 @@ Boss Hog
 # Image
 ![Image](logo.jpg)
 
-## Description
+# Description
 This is where you provide a overall description of the boss card. This is used by the storyteller to help place the boss into the story.
+
+# Strikes
+4
+
+# Wounds
+3
 
 ------------------------------
 # Backstories
